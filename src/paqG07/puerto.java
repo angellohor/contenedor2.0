@@ -32,5 +32,4 @@ public class puerto {
     }
     //metodo para saber si hay espacio para apilar(boolean)
     //metodo apilar en un hub libre utilizando el metodo anterior para saber cual esta libre
-    //metodo desapilar, donde entra un entero para un hub y otro para la columna, y devuelve el contenedor desapilado
 }
