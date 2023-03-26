@@ -30,6 +30,5 @@ public class puerto {
         a[cont].desapilacontenedor(colum);
         return desapilado;
     }
-    //metodo para saber si hay espacio para apilar(boolean)
-    //metodo apilar en un hub libre utilizando el metodo anterior para saber cual esta libre
+  
 }
