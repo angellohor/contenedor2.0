@@ -12,7 +12,7 @@ public class Main {
         p1.a[0].apilacontenedor(c);
         System.out.println(p1.a[0].tostring());
         System.out.println(p1.a[0].muestracontainer(1));
-        p1.a[0].desapilacontenedor(1);
+        System.out.println(p1.desapila(0,1));
         System.out.println(p1.a[0].tostring());
         System.out.println(p1.a[0].muestracontainer(1));
         System.out.println( "hay:" +p1.a[0].cuantosa("españa"));

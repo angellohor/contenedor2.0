@@ -96,6 +96,16 @@ public class almacen {
 
     }
 
+    public String muestracontainerbycolumn(int colum) {
+        int fila=9;
+        while (p1[fila][colum].getNumero_identificación()==0 && fila>=0) {
+        fila--;
+        }
+            return p1[fila][colum].toString();
+        }
+
+
+
 
     public String muestracontainer(int id) {
 
