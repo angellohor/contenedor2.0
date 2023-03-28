@@ -19,8 +19,8 @@ public class puerto {
             a[0].apilacontenedor(c);
         }else  if (espacio(1)){
             a[1].apilacontenedor(c);
-        }else if (espacio(0)){
-            a[0].apilacontenedor(c);
+        }else if (espacio(2)){
+            a[2].apilacontenedor(c);
         }
     }
 
